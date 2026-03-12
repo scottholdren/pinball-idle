@@ -1,1 +1,139 @@
-[]
+[
+  {
+    "commit": "c285dc34a219245de64bd872ea8dd6935eca5422",
+    "timestamp": "2026-03-11T22:43:13-04:00",
+    "message": "Add red square to main page",
+    "author": "Scott Holdren",
+    "files_changed": [
+      "src/App.jsx"
+    ],
+    "claude": {
+      "session_id": "079e997f-d222-4940-a2ee-4f325a940705",
+      "model": "anthropic/claude-4.6-sonnet-20260217",
+      "git_branch": "master",
+      "tokens": {
+        "input": 65,
+        "output": 383,
+        "cache_creation": 44895,
+        "cache_read": 21983
+      },
+      "cost_usd": 0.180891,
+      "session_timestamp": "2026-03-12T02:42:57.354540+00:00"
+    }
+  },
+  {
+    "commit": "ff1d9bdfb8605f266a1ce723c7cfe645277c66b3",
+    "timestamp": "2026-03-11T22:43:13-04:00",
+    "message": "Add red square to main page",
+    "author": "Scott Holdren",
+    "files_changed": [
+      ".claude-audit/log.json",
+      "src/App.jsx"
+    ],
+    "claude": {
+      "session_id": "bce06ba1-757f-46f6-9362-b1c6814a3336",
+      "model": "anthropic/claude-4.6-sonnet-20260217",
+      "git_branch": "master",
+      "tokens": {
+        "input": 13,
+        "output": 419,
+        "cache_creation": 9412,
+        "cache_read": 81813
+      },
+      "cost_usd": 0.066163,
+      "session_timestamp": "2026-03-12T03:06:46.180268+00:00"
+    }
+  },
+  {
+    "commit": "ff1d9bdfb8605f266a1ce723c7cfe645277c66b3",
+    "timestamp": "2026-03-11T22:43:13-04:00",
+    "message": "Add red square to main page",
+    "author": "Scott Holdren",
+    "files_changed": [
+      ".claude-audit/log.json",
+      "src/App.jsx"
+    ],
+    "claude": {
+      "session_id": "092254c4-e787-47a2-a304-7e8745c81c66",
+      "model": "anthropic/claude-4.6-sonnet-20260217",
+      "git_branch": "master",
+      "tokens": {
+        "input": 398,
+        "output": 591,
+        "cache_creation": 11963,
+        "cache_read": 103327
+      },
+      "cost_usd": 0.085918,
+      "session_timestamp": "2026-03-12T03:02:00.924590+00:00"
+    }
+  },
+  {
+    "commit": "ff1d9bdfb8605f266a1ce723c7cfe645277c66b3",
+    "timestamp": "2026-03-11T22:43:13-04:00",
+    "message": "Add red square to main page",
+    "author": "Scott Holdren",
+    "files_changed": [
+      ".claude-audit/log.json",
+      "src/App.jsx"
+    ],
+    "claude": {
+      "session_id": "079e997f-d222-4940-a2ee-4f325a940705",
+      "model": "anthropic/claude-4.6-sonnet-20260217",
+      "git_branch": "master",
+      "tokens": {
+        "input": 77,
+        "output": 658,
+        "cache_creation": 73839,
+        "cache_read": 62120
+      },
+      "cost_usd": 0.305633,
+      "session_timestamp": "2026-03-12T02:43:14.759786+00:00"
+    }
+  },
+  {
+    "commit": "ff1d9bdfb8605f266a1ce723c7cfe645277c66b3",
+    "timestamp": "2026-03-11T22:43:13-04:00",
+    "message": "Add red square to main page",
+    "author": "Scott Holdren",
+    "files_changed": [
+      ".claude-audit/log.json",
+      "src/App.jsx"
+    ],
+    "claude": {
+      "session_id": "test123",
+      "model": "anthropic/claude-4.6-sonnet-20260217",
+      "git_branch": "master",
+      "tokens": {
+        "input": 78,
+        "output": 678,
+        "cache_creation": 74007,
+        "cache_read": 85395
+      },
+      "cost_usd": 0.313549,
+      "session_timestamp": "2026-03-12T03:08:09.851545+00:00"
+    }
+  },
+  {
+    "commit": "ff1d9bdfb8605f266a1ce723c7cfe645277c66b3",
+    "timestamp": "2026-03-11T22:43:13-04:00",
+    "message": "Add red square to main page",
+    "author": "Scott Holdren",
+    "files_changed": [
+      ".claude-audit/log.json",
+      "src/App.jsx"
+    ],
+    "claude": {
+      "session_id": "0c53d0fa-25eb-404f-9c0b-ba460f91ddd6",
+      "model": "anthropic/claude-4.6-sonnet-20260217",
+      "git_branch": "master",
+      "tokens": {
+        "input": 12,
+        "output": 292,
+        "cache_creation": 10148,
+        "cache_read": 57820
+      },
+      "cost_usd": 0.059817,
+      "session_timestamp": "2026-03-12T03:10:33.077232+00:00"
+    }
+  }
+]
