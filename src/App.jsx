@@ -6,15 +6,7 @@ function App() {
 
   return (
     <>
-      <pre>{`
-    _
-  _/ }
- `(/ )
- /`-'
-/|\\`-
-  |
-  |
-`}</pre>
+
       <div style={{ width: 100, height: 100, backgroundColor: 'red' }} />
       <h1>Vite + React</h1>
       <div className="card">
